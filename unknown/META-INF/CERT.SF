@@ -1,0 +1,892 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 0O+jNHH9e60iIq/szR7WgMK8Sr0=
+
+Name: res/layout/black_list_mediaview.xml
+SHA1-Digest: POBpteWxYmWmlcGROH1qj1ez8CU=
+
+Name: com/sun/mail/dsn/mailcap
+SHA1-Digest: adoefGJAcxFZ9c1BCbtMgJDc4uU=
+
+Name: assets/Img/Refresh.png
+SHA1-Digest: OfHOecMzLV3O7ZN4WF3Hq4rQHVc=
+
+Name: res/drawable-xhdpi/btn_toggle_on.9.png
+SHA1-Digest: ujQ/ZGdqGivuav/jxeHTEBnlWVc=
+
+Name: assets/Img/Hello.png
+SHA1-Digest: majP48fHRcEvSx7j1hjOKw2WWF4=
+
+Name: res/drawable/btn_toggle.xml
+SHA1-Digest: yzT1zuF7ivaEupZl2G6tu11TGkE=
+
+Name: org/eclipse/jetty/server/jmx/Server-mbean.properties
+SHA1-Digest: yz3mNyMJ5YZS1S77BzgOcr2NcxE=
+
+Name: res/drawable/lego_dwn.9.png
+SHA1-Digest: b+B++tMx2v16BaObtcF+KA6D70w=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: 2L1KD2cYjjeI06yNb2pKMDEafcU=
+
+Name: assets/Img/Mic.png
+SHA1-Digest: chDt8B3bc5ULQ6w88QGBhQWnvdk=
+
+Name: res/drawable/icn_18x18_black_white_sample_control.png
+SHA1-Digest: 1elDvnf9UIAPfZN7Zjs5nXQLN44=
+
+Name: res/drawable-xhdpi/bar_dark.9.png
+SHA1-Digest: IctUmmzktJRr6Z+KLq2Ro3p+jWY=
+
+Name: res/layout/javascript_prompt_dialog.xml
+SHA1-Digest: oAzCw1Zs1rLlavLt6eKmAofX2fQ=
+
+Name: res/drawable-xhdpi/picture_frame.9.png
+SHA1-Digest: 2YErYErVDuTbA3QdamomPJCRimE=
+
+Name: assets/Img/VBarB.png
+SHA1-Digest: n37rMy58b31YvoRjgScQDtLo1GI=
+
+Name: res/drawable-xhdpi/btn_orang_up.9.png
+SHA1-Digest: ZBg91tPOgAvd+EnDsifKUm2z6Ik=
+
+Name: lib/armeabi-v7a/libspr-utils.so
+SHA1-Digest: G2ITYWZWLE3pAZcNo1PXn2/vc30=
+
+Name: assets/Img/Eagle1.png
+SHA1-Digest: 9X68lPKmlNAqLIwDoGShiNqU46Y=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletMapping-mbean.properties
+SHA1-Digest: wHZow8j1C9qUfELtHMZaGhq8t/U=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerWrapper-mbean.properties
+SHA1-Digest: MKUrfvF6VSRADQkX4A6LKAfSJx4=
+
+Name: javax/servlet/resources/XMLSchema.dtd
+SHA1-Digest: 2Dy9s/vx2zjyYkbjgminmOp+A6Y=
+
+Name: res/drawable-xhdpi/underline_focus.9.png
+SHA1-Digest: UiquSpqa+5eYtJPrQGWUbK15xcA=
+
+Name: res/layout/sample_control2.xml
+SHA1-Digest: /ezDQ2Q5ZWum2TJKVXCXdUMAU+U=
+
+Name: javax/servlet/resources/j2ee_web_services_1_1.xsd
+SHA1-Digest: QFHgF/M8c+5JFMYoHmtu4WsbqtE=
+
+Name: res/drawable/btn_cust_toggle_up.xml
+SHA1-Digest: GX+d/QLD63lMAz1WZocozfYrBTI=
+
+Name: res/drawable/folder.png
+SHA1-Digest: w4IgG9pJmTSU4pi/DfwZrJ1hVW8=
+
+Name: assets/lang.json
+SHA1-Digest: ofqNIvu8OHYgGM+0e6HgQcyT9HQ=
+
+Name: javax/servlet/resources/web-app_2_2.dtd
+SHA1-Digest: 6nv++RUC93UO9xEOWDW4zgeYm2A=
+
+Name: assets/Libs/Tween.js
+SHA1-Digest: Wrlq9sKQIiYA1oXBAn5vDqujCxk=
+
+Name: assets/Libs/Flot.js
+SHA1-Digest: vStmr2gy49lPhHSynbQ5GIGPfEI=
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: hoGYIAvNwUEqZgGZmoqt3CfT/S4=
+
+Name: assets/Libs/Pixi.js
+SHA1-Digest: AvqYAQLKqG+LvZc56WcP4jZvBgM=
+
+Name: res/drawable-xhdpi/buttonxs_up.9.png
+SHA1-Digest: C3FBVkj4nA8yYcQGWTMgWbEn4H8=
+
+Name: res/xml/accessory_filter.xml
+SHA1-Digest: e/v/wSgJvxvCyhcsxJdRuK8Q8FM=
+
+Name: res/drawable-xhdpi/bar_btn_dark_up.9.png
+SHA1-Digest: MhI/huiiuVPv2owMOuueNWSpLek=
+
+Name: javamail.smtp.address.map
+SHA1-Digest: la7OFR8+1sr/jbW4TcYPhFzpwqs=
+
+Name: org/eclipse/jetty/server/handler/jmx/StatisticsHandler-mbean.properties
+SHA1-Digest: 5H4tMsmzvDGcG8RYtnHfKgLQdG0=
+
+Name: res/drawable/btn_cust_toggle_down.xml
+SHA1-Digest: bTKxJ8PYoYi3MfxDSaoNbk/yGVo=
+
+Name: resources.arsc
+SHA1-Digest: XjpQLpbwtJ7AjScp92pMZANvSeE=
+
+Name: res/drawable-xhdpi/overflow.png
+SHA1-Digest: xzlYoWeNG5bEjxRjgYdYzWRcq8M=
+
+Name: res/drawable/headset_pro_ok_icn.png
+SHA1-Digest: vjfpQYRRz69KYmhdq1Bz+szCuWg=
+
+Name: assets/Img/ioio.png
+SHA1-Digest: mwGTGt5tMFQxxbUEtuKZjx7HGTs=
+
+Name: org/eclipse/jetty/server/jmx/AbstractConnector-mbean.properties
+SHA1-Digest: g/pBJoPO0I8pM2iwuBOEybhUz4A=
+
+Name: res/drawable-xhdpi/list_btn_dark.xml
+SHA1-Digest: m+EyQbdoY0g6iyJ00n8B5VSZumk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: xQAj4T6IVuUBxH13AKR64hK2a4I=
+
+Name: javax/servlet/resources/web-app_3_0.xsd
+SHA1-Digest: ltQwDPZjM0oeSv53+FB+fydilCU=
+
+Name: assets/util.js
+SHA1-Digest: kNfwSZ4fYLXp+LsaufsLI5PWGMI=
+
+Name: assets/Html/Page.htm
+SHA1-Digest: NZr/BiVHcSDfZhIELcY+BDUrM18=
+
+Name: res/drawable-xhdpi/empty.9.png
+SHA1-Digest: 2xo8VPY1o9TOt0uQoszVSZZ77cQ=
+
+Name: org/eclipse/jetty/server/jmx/HandlerContainer-mbean.properties
+SHA1-Digest: NmH5l5IZPqaXEEOZeNXfZX+ue5k=
+
+Name: assets/Img/Icon.png
+SHA1-Digest: aspuKie6t0JCGx+ZNROM5PVA4z4=
+
+Name: javax/servlet/resources/javaee_6.xsd
+SHA1-Digest: P4oGFGHPuvwZWp1IY7kT4uHyulc=
+
+Name: res/drawable/custom_button.xml
+SHA1-Digest: RY5RqDt7MpHyjbTKfh7cALSSIAg=
+
+Name: res/drawable/lego_textbox.9.png
+SHA1-Digest: LI1h49ptXLyFm9vycc9wDX9lF3w=
+
+Name: assets/ide/android_dark.png
+SHA1-Digest: 3WKobEi7c8UqIT1zQN4ROmNXIzM=
+
+Name: javax/servlet/resources/j2ee_1_4.xsd
+SHA1-Digest: wcYfKPeSsOmcf7l5jiRbMTTUpHM=
+
+Name: assets/Img/BarA.png
+SHA1-Digest: 6cZ0dSrFJBs4fo5rThP+LnL+huo=
+
+Name: assets/Libs/Numeral.js
+SHA1-Digest: MbO+zIRRST4YHlKBg8q7sUP0y88=
+
+Name: assets/Img/BlueBack.jpg
+SHA1-Digest: irtwdDvi2yOARpRz3hFI1blz6i0=
+
+Name: assets/Img/Layout.png
+SHA1-Digest: WptqNIrwWNIOqRrzmRELKQuLQ0E=
+
+Name: res/drawable-xhdpi/list_row_black_dwn.9.png
+SHA1-Digest: uoYxl80mCypLQxoMn68mdPtmNw4=
+
+Name: assets/Img/Files.png
+SHA1-Digest: Iw3ishHOBjSy7ZrYhm0jM/goY2Y=
+
+Name: assets/Img/Splat.png
+SHA1-Digest: NwyBbGNiiD+vjVjwZs68v3mMcJY=
+
+Name: res/layout/sample_control.xml
+SHA1-Digest: Y0xAmbG8uD99WlDOY3ZZPtRKwBI=
+
+Name: res/drawable-xhdpi/list_btn_green.xml
+SHA1-Digest: TCvi3Zi1xOfTp1DNVVqqtbP+7u4=
+
+Name: res/drawable-xhdpi/list_row_black_up.9.png
+SHA1-Digest: gzJGEOP7Zy4r29hT0qwNq49Jeog=
+
+Name: assets/fonts/fontawesome-webfont.ttf
+SHA1-Digest: 3hKSQBchFCInvvL8WRW1wgvQ6H8=
+
+Name: res/drawable-xhdpi/back.png
+SHA1-Digest: +YFPtk1jY/6LQ83IJp9SbubNy8U=
+
+Name: res/drawable-xhdpi/button.xml
+SHA1-Digest: wK6lEu64yUc0Ja5oSrMTjarj6Yo=
+
+Name: org/eclipse/jetty/server/session/jmx/AbstractSessionManager-mbean.properties
+SHA1-Digest: PurATvMBD6ALsH7LorbDNcnF140=
+
+Name: res/drawable-mdpi/yoyo_selected.png
+SHA1-Digest: Ogv9ljdTpsYX5DrfQcIwJ6AYz2E=
+
+Name: res/drawable-xhdpi/underline.9.png
+SHA1-Digest: RbbITHOXEiNCN3lV42eIjLkdrY8=
+
+Name: assets/Img/Explode5.png
+SHA1-Digest: QFs93dHK/cRMvNZQAM2yNxbih+g=
+
+Name: assets/Snd/Trill.ogg
+SHA1-Digest: eUdPOVhGtcrynkL15sw79WZPIWo=
+
+Name: assets/Img/Pillar.png
+SHA1-Digest: VF7YTLpOqC8kNTHcmCAF+/YjcUY=
+
+Name: res/drawable-xhdpi/list_row_white.xml
+SHA1-Digest: tDedlGrTSU0D4suYdd24GMHiz6E=
+
+Name: assets/Img/BlackBack.jpg
+SHA1-Digest: iiewx3R9tZJyx7OVVBRfogg5J8g=
+
+Name: assets/Img/bar_dark.png
+SHA1-Digest: 1XA2ci3mJ5IlAVTVWCKSnvSrTNA=
+
+Name: res/drawable/icon_extension.png
+SHA1-Digest: tWDs6AdG3hk4trd5nlxTlMR8Lak=
+
+Name: res/drawable/photofolder.png
+SHA1-Digest: t95zc1otvySjoANkDvxpefHYsaw=
+
+Name: res/drawable/text_bg.png
+SHA1-Digest: nC7Dihaw4UxB2ne+w1F5GkFV4Eg=
+
+Name: assets/Img/TabHi.png
+SHA1-Digest: pCrfm9Zulm9M56XqRFDdm8E/SSI=
+
+Name: assets/Img/Tile.png
+SHA1-Digest: V6EGfp2Zx46uXGVu7+hh+RwuIig=
+
+Name: res/drawable/widget_frame.png
+SHA1-Digest: 38Hj9MTLXYUdwrp4mo+3McaQRAg=
+
+Name: res/drawable-xhdpi/list_btn_oran.xml
+SHA1-Digest: xhlorRZKsO2WIhWXd4uE6FJyRvc=
+
+Name: javax/servlet/resources/web-fragment_3_0.xsd
+SHA1-Digest: 0mv4vybKEiOT13pS/pyRd8QRj9c=
+
+Name: assets/Img/Play.png
+SHA1-Digest: 7zjdv9aT/chKpP5NBTsVfl0Wh7I=
+
+Name: assets/Img/Sky.jpg
+SHA1-Digest: h1gqd5CAalUVODL/RLGKvu9d47A=
+
+Name: assets/Img/Ultra.png
+SHA1-Digest: n8k/so3QjB/JEFfndkj+OLK1KG4=
+
+Name: org/eclipse/jetty/server/jmx/NCSARequestLog-mbean.properties
+SHA1-Digest: Lim64F6mn/VhMtVEPPtWY9ezIyg=
+
+Name: res/drawable-nodpi/actions_view_in_phone.png
+SHA1-Digest: ia/TkjU9s/iiiMmZdA1ROUf+5lo=
+
+Name: assets/cp.js
+SHA1-Digest: fyyAy0niARJOHntFMV79nr022Tg=
+
+Name: res/xml/preference.xml
+SHA1-Digest: FxxLsR7jfslI67LgbrKPBWXj7Ow=
+
+Name: assets/Img/Droid1.png
+SHA1-Digest: n4vnOn48E1jGkH0xfH2pRCBEFDs=
+
+Name: res/drawable-xhdpi/shadow_right.9.png
+SHA1-Digest: h/UudDN+Hp29DiGv8uzfgKczNok=
+
+Name: res/drawable/btn_cust_down_noshadow.xml
+SHA1-Digest: mC58koGeu+36nI+2jF8GAVU0UXY=
+
+Name: res/drawable-xhdpi/list_btn_play_blue.png
+SHA1-Digest: X8MxO+52lsp9Ye6fK10J+kTsoN0=
+
+Name: assets/Img/Bunny.png
+SHA1-Digest: 3F0auLjHP1hrIyONo0tSTBaUDJg=
+
+Name: res/drawable-xhdpi/btn_alum_dwn.9.png
+SHA1-Digest: ivmUbVNj9l0h8R+VtNa5YxfuCvw=
+
+Name: res/drawable/sample_control_widget_anim.png
+SHA1-Digest: D9uKvFbNK7IIpimD/rT9v0fWfeo=
+
+Name: javax/servlet/LocalStrings_fr.properties
+SHA1-Digest: NGAfQqnpYqa7M0+BQO3JhvQjbyY=
+
+Name: res/drawable-xhdpi/search.png
+SHA1-Digest: TJIH8piUPG001ducoY557da2Sd8=
+
+Name: assets/dlg.js
+SHA1-Digest: l/0IXZc5l4hSpa3vT5d/WUSivfQ=
+
+Name: res/drawable-xhdpi/list_btn_play_dark.png
+SHA1-Digest: nvT9wpKOAHPpRXDlrx9sSvYQ+1I=
+
+Name: javax/servlet/LocalStrings.properties
+SHA1-Digest: 1u5z8m8rwRfCXZ+kCgdb1N94SnQ=
+
+Name: org/eclipse/jetty/server/nio/jmx/SelectChannelConnector-mbean.properties
+SHA1-Digest: 2zikf8Ld8EJmVjg9LCEZedVdY7E=
+
+Name: assets/Img/JoyPad.png
+SHA1-Digest: Yx+/szJ1K8Uy1zbMP0z11iewLIU=
+
+Name: org/apache/harmony/awt/internal/nls/messages.properties
+SHA1-Digest: jMwW9jKD0vPqgROM1ZlDu/yYG0c=
+
+Name: assets/Img/Xylophone.png
+SHA1-Digest: eGS+JvL0j333bfccMX/k8cheRiw=
+
+Name: mimetypes.default
+SHA1-Digest: LtnD5FLKTeAWyyv18Kx6HHZlDLQ=
+
+Name: org/eclipse/jetty/http/encoding.properties
+SHA1-Digest: xEv9AVkb4kg0ooc01r+V2vwB8Z4=
+
+Name: res/drawable/btn_cust_toggle_checked.xml
+SHA1-Digest: NYP2prYm3LNYZYzpkRdxZUR6ZEM=
+
+Name: assets/Img/GreenBack.jpg
+SHA1-Digest: 5aK4gwELRiFX1J+Xns5a970ra2Y=
+
+Name: javamail.pop3.provider
+SHA1-Digest: xx7+YzBZJEzUzyad35ichWNPTvY=
+
+Name: assets/Img/VBarC.png
+SHA1-Digest: E/DWzwN7UDxCONpY949zTAEGALI=
+
+Name: assets/dex/admob.jar
+SHA1-Digest: sZ9UQ1bZ1j7cTA1/3ZjG1iHKF+0=
+
+Name: assets/Img/Eagle2.png
+SHA1-Digest: 5yhu85hYxOwEiVh1OzGZvSC2osg=
+
+Name: res/drawable/btn_cust_up.xml
+SHA1-Digest: aj6QYO2PDEiti3feJyB20dMhmFc=
+
+Name: assets/Snd/Squeak.mp3
+SHA1-Digest: 7sUT7H9muJufB0EbTc7BpH+SbuM=
+
+Name: assets/Img/Explode1.png
+SHA1-Digest: 1hVzwnA7/ig696XN7ajLK5Plrmk=
+
+Name: assets/Img/Left.png
+SHA1-Digest: ryf+KxFw+9M6dqa6ZS/7pxqEuPU=
+
+Name: res/drawable-nodpi/actions_reply.png
+SHA1-Digest: qxKHWuMV+7Tyel1gsCQha+/SEow=
+
+Name: res/drawable/btn_cust_toggle_down_noshadow.xml
+SHA1-Digest: G/lr/jGIYfKdvlJwPPmfK2tfrJQ=
+
+Name: res/drawable-xhdpi/tooltip_up.9.png
+SHA1-Digest: NG1Wnd/8PoPy9YuWYDtGn2Ctg5I=
+
+Name: javax/servlet/resources/web-app_2_4.xsd
+SHA1-Digest: UPNtOPeiRvaqf4Hz6SM9hLcLwQ8=
+
+Name: res/layout/black_list_textview.xml
+SHA1-Digest: QElU0ylJ43rGnEGEHH+Zl8qBNXw=
+
+Name: assets/Img/Tab.png
+SHA1-Digest: t/Zn0lIduZl40x0fzOMf2P6pxnU=
+
+Name: assets/Img/Color.png
+SHA1-Digest: hRW+yFqoUjDnUaftqXQOch5Z/rQ=
+
+Name: assets/sw.js
+SHA1-Digest: yjCo+KknWHRHkOiFqCOXHZBQ+j4=
+
+Name: res/drawable/btn_cust_up_noshadow.xml
+SHA1-Digest: nNj4tz0WXqIxRzbhwhX4ZekADS8=
+
+Name: res/layout/device_list.xml
+SHA1-Digest: gdsh4lsWJGgPoEzlEOxWwFhWyoQ=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerCollection-mbean.properties
+SHA1-Digest: kwInZTkR4zAGrd0O7o++p6FwyCs=
+
+Name: res/drawable-xhdpi/btn_toggle_off.9.png
+SHA1-Digest: TIMw7ldKi8xDI6U6j+ymo78uiAo=
+
+Name: assets/Img/Sprint.png
+SHA1-Digest: nMqy7bzy92+gUEnfUxBb32NfrEs=
+
+Name: res/drawable-xhdpi/btn_green_up.9.png
+SHA1-Digest: myAqqV+ID7fo5Iqmyh9g1Eh7Wp4=
+
+Name: assets/Img/Explode2.png
+SHA1-Digest: 1Z9OLS3x1ET+dpQS+YaEzjT6tVk=
+
+Name: res/layout/white_list_textview.xml
+SHA1-Digest: hvu8gNVRhLZ/Y01no5EpJ4QR8Ok=
+
+Name: assets/Img/Settings.png
+SHA1-Digest: 0Z1GGIT11s1Zmj89QYPgnEhpvWE=
+
+Name: res/drawable/badge_counter.png
+SHA1-Digest: 8tAe9OiAtlQQYjvY8p8YJGiVvzE=
+
+Name: assets/Img/NxtConn.png
+SHA1-Digest: PmRFVA7g8sTliRW3G5Y3AM6vu4I=
+
+Name: res/drawable/video.png
+SHA1-Digest: ko8TcotGfNZxYzEJUPehHBqC17c=
+
+Name: res/layout/button_list.xml
+SHA1-Digest: dRrqk4Ak6X3DJ7QZEjLpMMZXa9s=
+
+Name: org/eclipse/jetty/servlet/jmx/FilterMapping-mbean.properties
+SHA1-Digest: N1OcNoJINl+ZJbVxRlA6M9O9E1Y=
+
+Name: assets/Img/Forward.png
+SHA1-Digest: w/z6z9Jui/8PBpzWU/oWI2N+6xA=
+
+Name: res/drawable-xhdpi/btn_green_dwn.9.png
+SHA1-Digest: mHocawnART2xXWZ5kF/Fqi7P+E4=
+
+Name: assets/Img/Reverse.png
+SHA1-Digest: YOZIFmglOSGstSqDERMdZKIh9EU=
+
+Name: assets/Img/Connect.png
+SHA1-Digest: TmbQtHDBhTY4AXjMunh24BokQ0E=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_3.xsd
+SHA1-Digest: R/J/lTanf1LxpHT1PcqaNUFLeqs=
+
+Name: assets/Snd/Poing.ogg
+SHA1-Digest: fgn3EaaJMTkOY9gbPPMjS9PLCxQ=
+
+Name: res/drawable/generic_anim_1_icn.png
+SHA1-Digest: IGqWrMlqSgIc0T3tAMNSwdENEHg=
+
+Name: res/drawable/icon_extension48.png
+SHA1-Digest: 9xkZMCsyrJpsqVWpjhzXAGsA9uU=
+
+Name: res/layout/main.xml
+SHA1-Digest: /4B10EVX5qhgY/zYQA1Yx+gZSa4=
+
+Name: mailcap.default
+SHA1-Digest: OEOm9RCN2oyqc/cL3CCUJZmM8Yg=
+
+Name: res/drawable-xhdpi/bar_black.9.png
+SHA1-Digest: b59CQxrP/u+Rc7Qc1NcNjxRU43A=
+
+Name: javax/servlet/resources/javaee_web_services_1_2.xsd
+SHA1-Digest: LudTpPkOjVEKcnC+oX5w99OaHdg=
+
+Name: res/layout/smartwatch2_message.xml
+SHA1-Digest: OQKqENGVufKgpYXZ3f933P4IhVo=
+
+Name: javax/servlet/resources/javaee_5.xsd
+SHA1-Digest: Al4CZ8FbfXbQJsinOcrokMXa/U0=
+
+Name: res/drawable-xhdpi/btn_dark_up.9.png
+SHA1-Digest: 5Tzc8PNuWGXw7melS6BUtZzGLDc=
+
+Name: dsn.mf
+SHA1-Digest: DIMfyAT/elPDToK2wVP94dYzeEg=
+
+Name: res/xml/device_admin_receiver.xml
+SHA1-Digest: 5ebdcXiiJKhUgx2qFhsmlXSxAk4=
+
+Name: javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+SHA1-Digest: wcJfVwJsBqgSm8ceX8ojSPii/y0=
+
+Name: assets/Img/Droid2.png
+SHA1-Digest: pdE6zmkMwhlh2OccnyzxJhagbUQ=
+
+Name: assets/Img/Exit.png
+SHA1-Digest: jUKHlClX0jc/c9+WGOuGyHJQJAg=
+
+Name: javax/servlet/http/LocalStrings_fr.properties
+SHA1-Digest: i0YlTMzYqSoNCJWLMx2DAR1Qn44=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHandler-mbean.properties
+SHA1-Digest: XyZI4kbKB3s9rPyzeccm4FiYD74=
+
+Name: res/drawable/background_style_1.png
+SHA1-Digest: B7RN+kOaw+HSHDU5Ay2kgSQHWAY=
+
+Name: res/drawable-xhdpi/shadow_left.9.png
+SHA1-Digest: ainxW607p+qutLvcmSQnbaq7CYM=
+
+Name: lib/arm64-v8a/libspr-utils.so
+SHA1-Digest: CAC9ySk9ldewrNpG+1vsl7r2tPk=
+
+Name: res/drawable/track_blue.png
+SHA1-Digest: suJHrvDUHTIAvErwiMLHCRELopU=
+
+Name: javax/servlet/LocalStrings_ja.properties
+SHA1-Digest: uFK+X0ddvzZ4veoLgd0kvMcZPqw=
+
+Name: assets/Img/Sound.png
+SHA1-Digest: t2Dy0acBDzjlS67CiLrIeS5Vxfw=
+
+Name: res/drawable-xhdpi/bar_gray.9.png
+SHA1-Digest: AulznPjnAE/EdgQevHA5gWJBsUE=
+
+Name: assets/term.js
+SHA1-Digest: 5bzOsLPaT3kix+Qux01oQO9fs5k=
+
+Name: res/drawable-xhdpi/drop.9.png
+SHA1-Digest: Rytn5zd1VnKaDj+jlBewW4X97Gk=
+
+Name: assets/Img/Spring.png
+SHA1-Digest: +/oXlxQqi9/UeDCvbKdydooBu6o=
+
+Name: assets/Libs/Box2d.js
+SHA1-Digest: aN2wspswOYXRT4hKRjnaG3aCzkc=
+
+Name: javamail.default.address.map
+SHA1-Digest: v0AMWogtP3iw2he5Ed7ptkfGPSI=
+
+Name: res/drawable/btn_cust_toggle_up_noshadow.xml
+SHA1-Digest: R+TqwlTgtIHc0Q9iVihXwXfQwcE=
+
+Name: assets/bws.js
+SHA1-Digest: 5I+dDt+/CQsmQPXEmJ37s1nw/mM=
+
+Name: assets/user/ANTRAX_SHELL.js
+SHA1-Digest: wPcGNtt/PHSBRgDUXK0ZE1faD3U=
+
+Name: assets/Img/Question.png
+SHA1-Digest: SgRSySOPuZKr3+Adj9eIre1QzjY=
+
+Name: javamail.imap.provider
+SHA1-Digest: yd9kVPaarUBEmFyZYPyun4oIrlY=
+
+Name: res/drawable-nodpi/actions_call.png
+SHA1-Digest: grT0mZ4TyDs9qxJdoKG3NaFzgVg=
+
+Name: assets/Img/Right.png
+SHA1-Digest: dQSW8tnZ6XmMR+qyLfLgnxE+5yk=
+
+Name: res/drawable-xhdpi/bar_btn_green_up.9.png
+SHA1-Digest: djtoUrXxrs7K8lAs5dcGQytNSKg=
+
+Name: res/drawable/generic_anim_2_icn.png
+SHA1-Digest: EHMDWbFHztLz5UyMcNCHmIZ1yIU=
+
+Name: res/drawable/lego_bw.9.png
+SHA1-Digest: v5ChZa7bIkljAGKlZ4q3MAYY+NY=
+
+Name: javax/servlet/resources/web-app_2_5.xsd
+SHA1-Digest: DrjtGleoHbwSlvxRFlTdX9lwufg=
+
+Name: res/drawable/lego.xml
+SHA1-Digest: N65HPpDaYfJ3EHiVutFcSPtue3s=
+
+Name: assets/Snd/Explode.mp3
+SHA1-Digest: Szx5BAk7Vsoydc77za0cWu6/NdE=
+
+Name: res/drawable-xhdpi/pattern_carbon.png
+SHA1-Digest: d0J5GT6V8yiIvhGfeMg4GPd/BdY=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandlerCollection-mbean.properties
+SHA1-Digest: RO960YJqvQK2Nkq+5IHx8lIfe8c=
+
+Name: res/layout/cancel_download.xml
+SHA1-Digest: ZuOJccqDXOt019W7GuhndFxm6Go=
+
+Name: res/drawable-xhdpi/button_up.9.png
+SHA1-Digest: 7Fr/FCLWLexilFlgsfdD/QP89fI=
+
+Name: res/drawable/audiofolder.png
+SHA1-Digest: VBEVTnLfWTBnmCb3jiexhsm3RB8=
+
+Name: res/drawable/custom_toggle.xml
+SHA1-Digest: yWaYsZOfNQwXYnre62vSwGsNEOY=
+
+Name: res/drawable-xhdpi/btn_grey_up.9.png
+SHA1-Digest: CTzjKfcFhmuBeUmo1wBH7jhnWjY=
+
+Name: assets/app.js
+SHA1-Digest: DXPpsPqBe6bKj9YShpXlyWUyA10=
+
+Name: assets/esp.js
+SHA1-Digest: ZGtga8REoRY75UWPNPQF3F6DJCo=
+
+Name: org/eclipse/jetty/http/mime.properties
+SHA1-Digest: 3svDOUvDxYVfsIDc63ujMHVYYRE=
+
+Name: res/drawable-xhdpi/drop_right.9.png
+SHA1-Digest: X6K5xZ0WPwIZQHLAFIg74HliZTo=
+
+Name: res/xml/device_filter.xml
+SHA1-Digest: g4FBuZIMyp9hTyCjqrBVfCQyVww=
+
+Name: mailcap
+SHA1-Digest: ydglDriTEt+HQdxQxFQv3cdkxGQ=
+
+Name: assets/Img/StarField.jpg
+SHA1-Digest: LbLze0JK45eAZSmq6hhPmp4tu+g=
+
+Name: res/drawable/headset_pro_cancel_icn.png
+SHA1-Digest: uvSECaK+WdXKggMR61vnXOy9p2g=
+
+Name: assets/Img/PillarTop.png
+SHA1-Digest: 33+9omVzE6w5hBWRCZtqWjSd/Oc=
+
+Name: res/drawable/lego_up.9.png
+SHA1-Digest: sv2SSNjr0/WayK6JO2thJy0/WGM=
+
+Name: res/layout/smartwatch_message.xml
+SHA1-Digest: N7B14eybGAaEb/nq7ZvZiAJXT4o=
+
+Name: assets/Img/Notify.png
+SHA1-Digest: D/hEKMUwtL9oaPp1WETLlIg2Gu8=
+
+Name: assets/Img/Explode3.png
+SHA1-Digest: lln1ujbmXbxVTfafFZ5kTmfSV+c=
+
+Name: assets/sql.js
+SHA1-Digest: KxJq+v9uZdiaSoYrNDDveue474s=
+
+Name: res/drawable-xhdpi/list_row_white_up.9.png
+SHA1-Digest: ajStlU0nAPa9AcsxyM1Y3X8tYFg=
+
+Name: res/layout/download.xml
+SHA1-Digest: eRMm5Pel80ilEI8MZgwb3UUb0sA=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: PXA+RKjzqMKIBQWStZ493JrbztY=
+
+Name: res/drawable-xhdpi/thumb_frame.9.png
+SHA1-Digest: JWAtRxEzfCwg0i7XzCPtNRnWV7U=
+
+Name: res/drawable-xhdpi/bar_btn_gray_up.9.png
+SHA1-Digest: Ow88LVGjmALE8nfykPshwS40DBs=
+
+Name: res/drawable-xhdpi/list_row_black.xml
+SHA1-Digest: jucKf8unBxi+twenzD7yHCfrDu4=
+
+Name: assets/Img/Tab_.png
+SHA1-Digest: QtWueVjlN+2fhCHVK2bTfCtATEo=
+
+Name: javax/servlet/resources/javaee_web_services_1_3.xsd
+SHA1-Digest: 2bFYcDNxJuQx1QQopOkjio09B5g=
+
+Name: res/drawable-mdpi/yoyo.png
+SHA1-Digest: JFbnb4BAHWV80tpHTV9aYjWR/VI=
+
+Name: javax/servlet/http/LocalStrings_es.properties
+SHA1-Digest: vAKGlG4o0Sn4Od2oOt7KhqHBNBI=
+
+Name: res/drawable-xhdpi/buttonxs_down.9.png
+SHA1-Digest: wz9puyd4Ux/B7vQ/vK4DwuScNdA=
+
+Name: javax/servlet/resources/web-common_3_0.xsd
+SHA1-Digest: 5BF2HM7m5Z8XJjDVLrjdKt8brBE=
+
+Name: res/xml/admin.xml
+SHA1-Digest: bqhRj6b95WCeWTbzYAhsErwPaiY=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_2.xsd
+SHA1-Digest: XDpSwqTD0mezQNbTseeVymmAAvk=
+
+Name: javamail.charset.map
+SHA1-Digest: yphd7jCdIMBZfsSI2ilVAOEzZI8=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHolder-mbean.properties
+SHA1-Digest: WPlS2kdZP6tSU569I9PAj0OV2M0=
+
+Name: res/drawable-xhdpi/shadow.9.png
+SHA1-Digest: 1Iw4UO54c24fzDT7BSdw4ojiFLI=
+
+Name: assets/ws.js
+SHA1-Digest: yYgD3iVG5VuYYSkDEtv84IDw9T8=
+
+Name: res/drawable-xhdpi/pattern_dark_stripe.png
+SHA1-Digest: LVUy+25Wlsb8No0SK1W7RISFT0U=
+
+Name: res/drawable-xhdpi/tooltip_down.9.png
+SHA1-Digest: Jz4JHI1bK+bRzBqtL3CAc+iM+Hw=
+
+Name: javax/servlet/resources/xml.xsd
+SHA1-Digest: Y4O0aQI9H1a4CEDbGLSxgHGSCH0=
+
+Name: assets/Img/VBarA.png
+SHA1-Digest: Kg4f+yKY7IZaGF0UFX6zttKLuV8=
+
+Name: res/drawable/btn_cust_down.xml
+SHA1-Digest: Fih3HaavrUIzU/qiFqgwC8kIoM4=
+
+Name: res/drawable/videofolder.png
+SHA1-Digest: e14oPHlS4kgqscfyqe5TBQpdoIE=
+
+Name: assets/ide/android.png
+SHA1-Digest: HEmgMkg2WCCh0TczwgNMTLCHBHM=
+
+Name: res/xml/nfc_tech_filter.xml
+SHA1-Digest: 7BZyNe+Pq5j6fqo6PNrR6NKZ0Ic=
+
+Name: assets/twn.js
+SHA1-Digest: XaXXgzA/pguLnPwH32xWBt9uIQg=
+
+Name: assets/tabs.js
+SHA1-Digest: GBaq1DZ0rGMnx1fT9pWiLP4wwfk=
+
+Name: res/drawable-xhdpi/buttonxs.xml
+SHA1-Digest: SuKWIKR1AVteBeUlQWdtc78Ncqo=
+
+Name: res/drawable-xhdpi/list_row_white_dwn.9.png
+SHA1-Digest: pNSycIQxTCRh5Tl7VeX9HZPqji8=
+
+Name: jetty-dir.css
+SHA1-Digest: 9C3fBtJ5zV/FGmTuRYsbDA3cR8U=
+
+Name: res/drawable/lego_screen.9.png
+SHA1-Digest: S1N1JnG4P65mvcq5Uh5munakbFw=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandler-mbean.properties
+SHA1-Digest: ajzASCqVwTw0XkdbHPJpX4NAsp8=
+
+Name: assets/Img/Bulb.png
+SHA1-Digest: TbLQgBdGcZvMgoNGr/NLuM2VnFo=
+
+Name: res/drawable/generic_anim_3_icn.png
+SHA1-Digest: DKngLP+om3u1sbVbXuq+Pbkmdtc=
+
+Name: res/drawable-xhdpi/drawer_open.png
+SHA1-Digest: 3yc2YKYYF1RCSTKMasv2Urj8Kks=
+
+Name: javax/servlet/http/LocalStrings_ja.properties
+SHA1-Digest: SScivs2nGnbZvZN52uJxR/v78Ds=
+
+Name: res/drawable/picture.png
+SHA1-Digest: pypnScXGqUYivSz/rKJVVK8t4r0=
+
+Name: assets/Html/Template.html
+SHA1-Digest: ZjoZNyekUCWvxtmjE6HaK1JfYTw=
+
+Name: res/drawable/icon.png
+SHA1-Digest: UrnQ9IEDlZhal1+WKHjeiH2nojk=
+
+Name: res/layout/smart_watch_notification_widget.xml
+SHA1-Digest: 7YCxfq2SKXtNV0pbD/2PYAdQ8PY=
+
+Name: res/drawable/track.png
+SHA1-Digest: V1yU7O/XP7U/dFjrIPd95RBCZe0=
+
+Name: assets/Img/~.nomedia
+SHA1-Digest: zhGS4ZBKce0bt7F26rsvBFW+caE=
+
+Name: org/eclipse/jetty/servlet/jmx/Holder-mbean.properties
+SHA1-Digest: fIrtJDkOzSX+pWCJ0Kkd4T7w6Dw=
+
+Name: res/drawable/black.png
+SHA1-Digest: 8oBa+Oksiu4oeZsMEJfHKW/C2W4=
+
+Name: assets/Img/Light.png
+SHA1-Digest: 65RInS7Y3m7GQgjFWWibNJtrGqQ=
+
+Name: assets/asset.js
+SHA1-Digest: Rx4pWPGZkygzJA+1ydpVDkLQmMo=
+
+Name: javax/servlet/resources/web-app_2_3.dtd
+SHA1-Digest: SSEZM385zZ2BkuWGVJO3qVZvSlQ=
+
+Name: assets/Libs/Gfx.js
+SHA1-Digest: jhiK9N/U7PRGYGVmAm1BXmrLlcQ=
+
+Name: assets/Img/Touch.png
+SHA1-Digest: YOZiNV25NSJ1ovUbP/HmVo1IBjM=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletContextHandler-mbean.properties
+SHA1-Digest: MsuTGpgx6Jxs7rnEHteS7y2DeuI=
+
+Name: res/drawable-xhdpi/btn_alum_up.9.png
+SHA1-Digest: mp8e08Im39mFGzyi/a2rVIlTbyA=
+
+Name: res/drawable/btn_toggle_bg.xml
+SHA1-Digest: w3o24/vi1qsw+aKSZ5n39k608q4=
+
+Name: org/eclipse/jetty/favicon.ico
+SHA1-Digest: sOfhtQHp70zBaqioM9vCeG/1wzI=
+
+Name: assets/gles.js
+SHA1-Digest: IiLI99wD1zeWULGZWYBMlWAId2g=
+
+Name: assets/nxt.js
+SHA1-Digest: 5/EpuM8VvSvJgM/PrgXQ2pigX/Y=
+
+Name: org/eclipse/jetty/http/useragents
+SHA1-Digest: J96mnPYXvsHPjkExmXaP+A3o1RY=
+
+Name: assets/ops
+SHA1-Digest: CTgEARBCnN5V3qhHigHMtyttBUE=
+
+Name: org/eclipse/jetty/server/jmx/Handler-mbean.properties
+SHA1-Digest: UzVwme/9pqYcnPMgp75kKxFcUDk=
+
+Name: javamail.smtp.provider
+SHA1-Digest: ZX797rIEua0P4b3taBnIScfckNI=
+
+Name: assets/Img/AScript.png
+SHA1-Digest: lF3zYrgPVFSINKie3nIMoQIzoPQ=
+
+Name: javax/servlet/http/LocalStrings.properties
+SHA1-Digest: D9R5ZN/r00x8GzADl7DkboefNl8=
+
+Name: assets/Img/Explode4.png
+SHA1-Digest: 9g+F2tirhBTV6oZ8A0JhcERqqe4=
+
+Name: assets/ga.js
+SHA1-Digest: uMRXMcZWxzoxdx4pmsM/xhQLD7g=
+
+Name: javax/servlet/resources/datatypes.dtd
+SHA1-Digest: 22ggbftJUO3QXoob+OTghH67s7I=
+
+Name: res/layout/device_name.xml
+SHA1-Digest: lH/qknIwgyDeQFLVJQdM7zL/cOg=
+
+Name: res/drawable/list.png
+SHA1-Digest: XjUq2SAAWC2a7w+ejAoDoKOMmJ8=
+
+Name: org/eclipse/jetty/server/handler/jmx/AbstractHandler-mbean.properties
+SHA1-Digest: +X13ew1NDIVK0n99URjOEZ6yOiE=
+
+Name: assets/v8.js
+SHA1-Digest: KWk+pS0JUiP9Dt31zOtuf3Im2Lc=
+
+Name: res/drawable-xhdpi/button_down.9.png
+SHA1-Digest: VBDhH87Zs55Pgvw/OJtpogjyeYA=
+
+Name: assets/es6.js
+SHA1-Digest: pNFr1KZ+wNWF+Tefh/16GYz0XnQ=
+
+Name: res/drawable-xhdpi/text_edit.xml
+SHA1-Digest: K8NVv4TMp5YzDf7KM000lf+dpWM=
+
+Name: assets/gl.js
+SHA1-Digest: QMO8RCrzyIRag7Tb6skesDI0mNs=
+
+Name: org/eclipse/jetty/server/jmx/Connector-mbean.properties
+SHA1-Digest: /K4x6EbWK0k0uE01wJ+nthX0MFc=
+
+Name: assets/Libs/JQuery.js
+SHA1-Digest: 1M+olCMaJ1UInt1fY3JWWHaRZj0=
+
+Name: javamail.default.providers
+SHA1-Digest: tBRMNiJQTMZ/CZ7f+5bYEhYt+TI=
+
+Name: res/layout/smart_watch_widget.xml
+SHA1-Digest: tJrVQDH2zWFvVYTpEVNuAIX2Ekc=
+
+Name: res/drawable/headset_pro_focus_xs_icn.png
+SHA1-Digest: B1zhDfTvgEBqGQ1iPFJeGqL8b1o=
+
+Name: assets/Snd/Bullet.mp3
+SHA1-Digest: e35dib3fDK+aUsNNpKT3Ufnq7Pg=
+
+Name: res/drawable/btn_cust_toggle_checked_noshadow.xml
+SHA1-Digest: mhOklxZFwTHZq2r/iMkTbOIyHBE=
+
+Name: res/drawable-xhdpi/list_btn_alum.xml
+SHA1-Digest: YKlNv5osu9GEkrgaF6abG6noDpI=
+
+Name: assets/Img/Add.png
+SHA1-Digest: BAkCQa4a7AQ5lJcTl5Ml8vT8/F8=
+
+Name: assets/Img/TabHi_.png
+SHA1-Digest: 0zeEcwZXNA/GLp9L20hqVXOHRfc=
+
+Name: classes.dex
+SHA1-Digest: eXCtQH7xnsV5lnIauTGr2TKEyQk=
+
+Name: res/drawable-xhdpi/btn_orang_dwn.9.png
+SHA1-Digest: sFjA5ofLCdc4tHq0roFYGkXJl+Y=
+

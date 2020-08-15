@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="100" android:versionName="1,00" package="com.store.antraxshell">
+	<uses-feature android:name="android.hardware.location.gps" android:required="false" />
+	<uses-feature android:name="android.hardware.location.network" android:required="false" />
+	<uses-feature android:name="android.hardware.location" android:required="false" />
+	<uses-feature android:name="android.hardware.camera" android:required="false" />
+	<uses-feature android:name="android.hardware.camera.front" android:required="false" />
+	<uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+	<uses-feature android:name="android.hardware.camera.front.autofocus" android:required="false" />
+	<uses-feature android:name="android.hardware.telephony" android:required="false" />
+	<uses-feature android:name="android.hardware.wifi" android:required="false" />
+	<uses-feature android:name="android.hardware.bluetooth" android:required="false" />
+	<uses-feature android:name="android.hardware.microphone" android:required="false" />
+	<uses-feature android:name="android.hardware.usb.host" android:required="false" />
+	<uses-feature android:name="android.hardware.nfc" android:required="false" />
+	<uses-feature android:name="android.software.live_wallpaper" android:required="false" />
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+	<application android:debuggable="false" android:hardwareAccelerated="true" android:icon="@drawable/icon" android:label="ANTRAX SHELL" android:largeHeap="true" android:testOnly="false" android:usesCleartextTraffic="true">
+		<uses-library android:name="com.google.android.things" android:required="false" />
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:directBootAware="true" android:label="ANTRAX SHELL" android:launchMode="singleTask" android:name="com.smartphoneremote.androidscriptfree.AndroidScriptFree" android:theme="@android:style/Theme.Holo.NoActionBar" android:windowSoftInputMode="adjustPan">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+				<category android:name="android.intent.category._HOME" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+			<meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" android:resource="@xml/device_filter" />
+			<meta-data android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" android:resource="@xml/accessory_filter" />
+			<intent-filter>
+				<action android:name="android.nfc.action.NDEF_DISCOVERED" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:host="*" android:scheme="ds" />
+			</intent-filter>
+		</activity>
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:directBootAware="true" android:label="New Activity" android:launchMode="singleTask" android:name="com.smartphoneremote.ioioscript.NewActivity" android:process=":NewActivityProcess" android:taskAffinity="" android:theme="@android:style/Theme.Holo.NoActionBar" android:windowSoftInputMode="adjustPan">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:directBootAware="true" android:label="Trasparent Activity" android:launchMode="singleTask" android:name="com.smartphoneremote.ioioscript.TransActivity" android:process=":TransActivityProcess" android:taskAffinity="" android:theme="@style/Theme.Transparent" android:windowSoftInputMode="adjustPan">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:directBootAware="true" android:label="User Activity" android:launchMode="singleTask" android:name="com.smartphoneremote.ioioscript.UserActivity" android:process=":UserActivityProcess" android:theme="@android:style/Theme.Holo.NoActionBar" android:windowSoftInputMode="adjustPan">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:directBootAware="true" android:label="Chrome Activity" android:launchMode="singleTask" android:name="com.smartphoneremote.ioioscript.ChromeActivity" android:theme="@android:style/Theme.Holo.NoActionBar" android:windowSoftInputMode="adjustPan">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:label="IOIOScript/ListViewAct" android:name="com.smartphoneremote.ioioscript.ListViewAct" />
+		<activity android:label="IOIOScript" android:name="com.smartphoneremote.ioioscript.NotifyClickAct" android:theme="@android:style/Theme.Dialog" />
+		<activity android:label="IOIOScript" android:name="com.smartphoneremote.ioioscript.NotifyClickRetryAct" android:theme="@android:style/Theme.Dialog" />
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:label="@string/select_device" android:name="com.smartphoneremote.ioioscript.DeviceListActivity" android:theme="@android:style/Theme.Dialog" />
+		<activity android:label="Preferences" android:name="com.smartphoneremote.ioioscript.SamplePreferenceActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+			</intent-filter>
+		</activity>
+		<activity android:configChanges="keyboard|keyboardHidden|orientation" android:label="@string/app_name" android:launchMode="singleTask" android:name="net.tmtg.glesjs.MainActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+		<meta-data android:name="com.google.android.gms.version" android:value="11020000" />
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.google.android.gms.ads.AdActivity" />
+		<activity android:name="com.google.android.gms.common.api.GoogleApiActivity" />
+		<service android:name="com.smartphoneremote.ioioscript.SampleExtensionService" android:process=":droidscript_sw_service" />
+		<service android:icon="@drawable/icon" android:label="DroidScript Service" android:name="com.smartphoneremote.droidscript.ScriptService" android:process=":droidscript_service" />
+		<service android:enabled="true" android:name="com.smartphoneremote.ioioscript.DSWallpaperService" android:permission="android.permission.BIND_WALLPAPER" android:process=":wallpaper">
+			<intent-filter>
+				<action android:name="android.service.wallpaper.Wallpaper_X_Service" />
+			</intent-filter>
+			<meta-data android:name="android.service.wallpaper" android:resource="@xml/wallpaper" />
+		</service>
+		<service android:name="com.uriio.beacons.BleService" />
+		<receiver android:name="com.smartphoneremote.ioioscript.MyServiceStarter">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+		<receiver android:name="com.smartphoneremote.ioioscript.AlarmReceiver" />
+	</application>
+</manifest>
